@@ -1,1 +1,1 @@
-This the Apache Cordova User Authentication And Authorization
+The api of the application
